@@ -21,6 +21,14 @@ En août 2020, Snyk une entreprise de cybersécurité américaine a [dévoilé l
 ### Google sanctionné de 100 millions d'euros par la Cnil
 En mars 2021, la [Cnil confirme l'amende de 100 millions d'euros qui a été donnée à Google](https://www.usine-digitale.fr/editorial/cookies-la-justice-valide-l-amende-de-100-millions-d-euros-infligee-a-google-par-la-cnil.N1068834) pour ne pas avoir été clair avec ses utilisateurs sur sa récolte de données. 
 
+### Facebook clos le litige pour sa collecte illégale de données personnelles
+
+<p align="center">
+  <img width="600" src="https://cdn.newsapi.com.au/image/v1/427bfdd5ca47eaa03f9d8a9ef33c38f4?width=650">
+</p>
+
+En mars 2021, [l'amande de Facebook pour avoir collecté illégalement les données biométriques de ses utilisateurs](https://www.usine-digitale.fr/article/facebook-paiera-650-millions-de-dollars-pour-clore-un-litige-sur-la-collecte-de-donnees-biometriques.N1066189) de 2010 à 2018 via sa technologie de "recommendation de tag" a été confirmée à 650 millions de dollars, soit 345 dollars par requérant.
+
 ## Les données personnelles et la législation
 En Europe, un mouvement général de raffermissement de la politique de traitement des données personnelles se popularise : il vise à répondre à une demande de plus en plus partagée par la population : être averti des données que l'ont produit et pouvoir décider soi-même de l'utilisation que chacun en fait. C'est ce que l'on appelle la [souveraineté numérique](https://www.journaldunet.com/management/direction-generale/1498577-souverainete-numerique-les-citoyens-europeens-sont-ils-les-seuls-a-pouvoir-changer-les-choses/).
 
@@ -67,4 +75,13 @@ Les cohortes d’audience permettent de cibler collectivement (plutôt qu’indi
 Le 23 février 2021, Mozilla annonce une nouvelle fonctionnalité avec Firefox 86 : la [protection totale des cookies](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/). Habituellement, un site web utilise des cookies pour se souvenir des préférences de l'utilisateur, et les autres sites peuvent y accéder librement pour lui proposer des publicités adaptées. La protction totale des cookies ne permet plus cette collecte de sites tiers. Le navigateur conserve chaque jeu de données dans une base dédiée spécifiquement au site concerné.
 
 ![Protection totale des cookies](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/panels-4-1536x768.png)
+
+### TikTok sommé d'améliorer sa communication sur sa gestion des données personnelles
+
+<p align="center">
+  <img width="600" src="https://resize-public.ladmedia.fr/img/var/public/storage/images/news/tiktok-un-nouveau-scandale-touche-l-application-preferee-des-ados-1644209/43694585-1-fre-FR/TikTok-un-nouveau-scandale-touche-l-application-preferee-des-ados.jpg>
+</p>
+
+En février 2021, [le Bureau européen des unions de consommateurs (BEUC) ainsi que la commission européenne accuse la plateforme de partage de vidéos d'enfreindre plusieurs lois europpéennes en ce qui concerne, entre autre, la gestion des données des utilisateurs](https://ca.news.yahoo.com/tiktok-hit-consumer-child-safety-110711481.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMPhPCDfX_49dfGxNUPZ55RSMR5IJ7ImYvi1oJiX6RVQAUP9W04-hSn4dmC_SSvl46V0_66MbStEPWWFl5q4wxniXrAJ3Mww5QGFZBGGt7h3XTsg3hnh1_NA-eC23-AZWRPmLFQALP6QKcgttruqaDzzELkRiPD4maWu6o6-rTcN). Les accusations portent principalement sur une communication trop nébuleuse sur l'utilisation des données récoltées, surtout pour un réseau social qui s'adresse majoritairement à des enfants. De plus, comme [Facebook et Google](https://techcrunch.com/2018/05/25/facebook-google-face-first-gdpr-complaints-over-forced-consent/), TikTok est accusé de ne pas proposer clairement le choix de refuser son partage de données. Ce procédé est connu sous le nom de **"consentement forcé"**. L'ensemble des accusations est mis à disposition par le [BEUC](https://www.beuc.eu/publications/beuc-x-2021-010_confusing_by_design-a_data_protection_law_analysis_of_tiktok_s_privacy_policy.pdf). Pour le moment, Tiktok met en place plusieurs mesures pour répondre à ces accusations mais rien n'est encore fait ; la commission europpéenne et le BEUC surveillent la compagnie de près.
+
 
