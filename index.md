@@ -1,9 +1,8 @@
 # Comment les données personnelles sont-elles utilisées par les réseaux sociaux aujourd'hui ?
 ###### Etude de Veille ECL - MOS 4.4
 
-![Data privacy](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2018%2F12%2Fcanva-photo-editor-3-9.jpg)
 <p align="center">
-  <img width="460" height="300" src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2018%2F12%2Fcanva-photo-editor-3-9.jpg">
+  <img width="600" src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2018%2F12%2Fcanva-photo-editor-3-9.jpg">
 </p>
 Ces dernières années, le volume d’informations générées a explosé, notamment avec le développement des réseaux sociaux, des instruments scientifiques, des objets connectés et des nouvelles technologies. On estime que le volume de données numériques générées dans le monde double tous les trois ans environ. Cette transformation vers le big data, qui découle de progrès réalisés en stockage et puissance de calcul, a créé de nouvelles opportunités et les grandes quantités de données sont devenues un enjeu économique majeur dans le monde entier. Des entreprises de tout domaine d’activité y investissent pour rester compétitives. En effet, même l’exploitation de données simples telles que la météo peut apporter beaucoup de valeur : le cabinet Climpact a par exemple montré qu’une baisse de 2 degrés au printemps entraine une baisse de 8% des ventes de sirop.
 
@@ -14,7 +13,6 @@ Depuis le [scandale de Cambridge Analytics en 2018](https://www.lemonde.fr/pixel
 Que ce soit par des raisons éthiques, morales ou économiques, les réseaux sociaux en question ainsi que les entreprises en générale sont donc poussés à mettre en place de nouvelles mesures concernant ce problème. Ces changements sont également souvent imposés par de nouvelles législations à l'échelle du pays ou de l'Europe, c'est pourquoi il est essentiel de les prendre en compte également. 
 
 ## Les récents exemples de fraude
-<img src="https://cardiff.imgix.net/__data/assets/image/0020/664130/data_justice_lab2.jpg?w=873&h=491&fit=crop&q=60&auto=format" width="48" align="center">
 Régulièrement, des enquêtes sont menées sur l'utilisation des données par les applications, et en particulier sur le fonctionnement parfois nébuleux des SDK (Software Development Kit). Concrètement, les SDK sont des outils d’aide à la programmation pour les développeurs afin de concevoir une application mobile, qui se présentent sous la forme de fragments de code. Ces SDK publicitaires facilitent l’affichage des publicités, le suivi des clics des utilisateurs dans une application, mais aussi la collecte des données du téléphone. Ils sont également une porte d'entrée facile pour les cyber-attaques et des outils puissants pour récolter des données assez librement. 
 
 ### Le SDK de Snyk
@@ -42,15 +40,30 @@ Face aux plaintes des utilisateurs, certaines entreprises prennent le problème 
 Pour protester contre une application, il peut-être également envisageable de fournir des données utiles à un réseau concurrent pour l'avantager. Par exemple, on peut désavantager Facebook en hébergeant ses photos sur Tumblr. 
 
 ### Whatsapp perd des millions d'utilisateurs après l'annonce d'un partage de données avec Facebook
+
+<p align="center">
+  <img width="600" src="https://www.dynamique-mag.com/wp-content/uploads/WhatsApp_logo.png">
+</p>
+                        
 En janvier 2021, [des millions d'utilisateurs décident de supprimer leur comptes WhatsApp](https://www.cnbc.com/2021/01/18/whatsapp-delays-privacy-update-amid-facebook-data-sharing-confusion.html) pour passer à Signal ou Telegram après que Facebook ait annoncé leur volonté de partager les données de WhatsApp avec le reste de l'entreprise. Cette exode a forcé Facebook à retarder son changement de législation.
 
 ### Google cesse d'utiliser le tracking individuel
+
+<p align="center">
+  <img width="600" src="https://www.google.fr/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png">
+</p>
+
 Le 3 mars 2021, l'entreprise Google annonce via ce [blog post](https://france.googleblog.com/2021/03/des-bases-durables-pour-un-internet.html) qu'elle va [cesser l'utilisation de cookie tiers](https://digiday.com/media/we-will-not-build-alternate-identifiers-in-drastic-shift-google-will-end-behavioral-targeting-profile-building-in-its-ad-products/), c'est-à-dire que les individus ne seront plus suivis de site en site comme cela pouvait être le cas auparavant. Google propose désormais l'alternative suivante : le ciblage par groupe (FLoC, Federated Learning of Cohorts).
 > Nos derniers tests sur FloC ont d’ailleurs prouvé qu’il était possible de retirer les cookies tiers de l’équation publicitaire pour produire des publicités efficaces, en cachant plutôt les individus au sein de « cohortes », c’est-à-dire de larges groupes d’internautes partageant les mêmes centres d’intérêts.
 
 Les cohortes d’audience permettent de cibler collectivement (plutôt qu’individuellement) en fonction des historiques de navigation et des intérêts similaires.
 
-### Firefox et la politique de 'protection totale des cookies'
+### Firefox et la politique de "protection totale des cookies"
+
+<p align="center">
+  <img width="600" src="https://c2.lestechnophiles.com/www.numerama.com/wp-content/uploads/2019/06/firefox-logo.jpg?resize=1212,712">
+</p>
+
 Le 23 février 2021, Mozilla annonce une nouvelle fonctionnalité avec Firefox 86 : la [protection totale des cookies](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/). Habituellement, un site web utilise des cookies pour se souvenir des préférences de l'utilisateur, et les autres sites peuvent y accéder librement pour lui proposer des publicités adaptées. La protction totale des cookies ne permet plus cette collecte de sites tiers. Le navigateur conserve chaque jeu de données dans une base dédiée spécifiquement au site concerné.
 
 ![Protection totale des cookies](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/panels-4-1536x768.png)
