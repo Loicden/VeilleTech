@@ -1,5 +1,6 @@
 # Comment les données personnelles sont-elles utilisées par les réseaux sociaux aujourd'hui ?
 ###### Etude de Veille ECL - MOS 4.4
+-
 
 <p align="center">
   <img width="600" src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2018%2F12%2Fcanva-photo-editor-3-9.jpg">
