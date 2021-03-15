@@ -43,5 +43,5 @@ Les cohortes d’audience permettent de cibler collectivement (plutôt qu’indi
 ### Firefox et la politique de 'protection totale des cookies'
 Le 23 février 2021, Mozilla annonce une nouvelle fonctionnalité avec Firefox 86 : la [protection totale des cookies](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/). Habituellement, un site web utilise des cookies pour se souvenir des préférences de l'utilisateur, et les autres sites peuvent y accéder librement pour lui proposer des publicités adaptées. La protction totale des cookies ne permet plus cette collecte de sites tiers. Le navigateur conserve chaque jeu de données dans une base dédiée spécifiquement au site concerné.
 
-[Protection totale des cookies](images
+[Protection totale des cookies](panels-4-1536x768.png)
 
