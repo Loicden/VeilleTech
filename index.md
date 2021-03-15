@@ -10,7 +10,6 @@ Depuis le [scandale de Cambridge Analytics en 2018](https://www.lemonde.fr/pixel
 Que ce soit par des raisons éthiques, morales ou économiques, les réseaux sociaux en question ainsi que les entreprises en générale sont donc poussés à mettre en place de nouvelles mesures concernant ce problème. Ces changements sont également souvent imposés par de nouvelles législations à l'échelle du pays ou de l'Europe, c'est pourquoi il est essentiel de les prendre en compte également. 
 
 ## Les récents exemples de fraude
-
 Régulièrement, des enquêtes sont menées sur l'utilisation des données par les applications, et en particulier sur le fonctionnement parfois nébuleux des SDK (Software Development Kit). Concrètement, les SDK sont des outils d’aide à la programmation pour les développeurs afin de concevoir une application mobile, qui se présentent sous la forme de fragments de code. Ces SDK publicitaires facilitent l’affichage des publicités, le suivi des clics des utilisateurs dans une application, mais aussi la collecte des données du téléphone. Ils sont également une porte d'entrée facile pour les cyber-attaques et des outils puissants pour récolter des données assez librement. En août 2020, Snyk une entreprise de cybersécurité américaine a [dévoilé la nocivité d’un SDK publicitaire](https://snyk.io/blog/sourmint-malicious-code-ad-fraud-and-data-leak-in-ios/) utilisé par plus de 1200 applications. Dans ce cas, la société éditrice du SDK, sous couvert d’une activité légitime, pratiquait de la fraude publicitaire en favorisant les publicités de leur réseau plutôt qu’un autre. En plus de ces activités frauduleuses, la société, via le SDK, traquait les utilisateurs des applications en récupérant certaines données de navigation. Si cet exemple illustre un cas extrême, il illustre bien la capacité de collecte de ces SDK.
 
 ## Les données personnelles et la législation
@@ -42,7 +41,7 @@ Le 3 mars 2021, l'entreprise Google annonce via ce [blog post](https://france.go
 Les cohortes d’audience permettent de cibler collectivement (plutôt qu’individuellement) en fonction des historiques de navigation et des intérêts similaires.
 
 ### Firefox et la politique de 'protection totale des cookies'
+Le 23 février 2021, Mozilla annonce une nouvelle fonctionnalité avec Firefox 86 : la [protection totale des cookies](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/). Habituellement, un site web utilise des cookies pour se souvenir des préférences de l'utilisateur, et les autres sites peuvent y accéder librement pour lui proposer des publicités adaptées. La protction totale des cookies ne permet plus cette collecte de sites tiers. Le navigateur conserve chaque jeu de données dans une base dédiée spécifiquement au site concerné.
 
-
-
+[Protection totale des cookies](images
 
