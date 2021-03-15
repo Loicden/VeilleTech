@@ -12,8 +12,7 @@ Depuis le [scandale de Cambridge Analytics en 2018](https://www.lemonde.fr/pixel
 Que ce soit par des raisons éthiques, morales ou économiques, les réseaux sociaux en question ainsi que les entreprises en générale sont donc poussés à mettre en place de nouvelles mesures concernant ce problème. Ces changements sont également souvent imposés par de nouvelles législations à l'échelle du pays ou de l'Europe, c'est pourquoi il est essentiel de les prendre en compte également. 
 
 ## Les récents exemples de fraude
-![Justice](https://cardiff.imgix.net/__data/assets/image/0020/664130/data_justice_lab2.jpg?w=873&h=491&fit=crop&q=60&auto=format)
-<img src="https://cardiff.imgix.net/__data/assets/image/0020/664130/data_justice_lab2.jpg?w=873&h=491&fit=crop&q=60&auto=format" width="48">
+<img src="https://cardiff.imgix.net/__data/assets/image/0020/664130/data_justice_lab2.jpg?w=873&h=491&fit=crop&q=60&auto=format" width="48" align="center">
 Régulièrement, des enquêtes sont menées sur l'utilisation des données par les applications, et en particulier sur le fonctionnement parfois nébuleux des SDK (Software Development Kit). Concrètement, les SDK sont des outils d’aide à la programmation pour les développeurs afin de concevoir une application mobile, qui se présentent sous la forme de fragments de code. Ces SDK publicitaires facilitent l’affichage des publicités, le suivi des clics des utilisateurs dans une application, mais aussi la collecte des données du téléphone. Ils sont également une porte d'entrée facile pour les cyber-attaques et des outils puissants pour récolter des données assez librement. 
 
 ### Le SDK de Snyk
