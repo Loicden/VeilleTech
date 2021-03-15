@@ -1,9 +1,12 @@
 # Comment les données personnelles sont-elles utilisées par les réseaux sociaux aujourd'hui ?
 ###### Etude de Veille ECL - MOS 4.4
--
 
 <p align="center">
   <img width="600" src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2018%2F12%2Fcanva-photo-editor-3-9.jpg">
+</p>
+
+<p align="center">
+  <img width="600" src="https://www.cyberark.com/wp-content/uploads/2020/01/Data-Privacy.jpg">
 </p>
 
 Ces dernières années, le volume d’informations générées a explosé, notamment avec le développement des réseaux sociaux, des instruments scientifiques, des objets connectés et des nouvelles technologies. On estime que le volume de données numériques générées dans le monde double tous les trois ans environ. Cette transformation vers le big data, qui découle de progrès réalisés en stockage et puissance de calcul, a créé de nouvelles opportunités et les grandes quantités de données sont devenues un enjeu économique majeur dans le monde entier. Des entreprises de tout domaine d’activité y investissent pour rester compétitives. En effet, même l’exploitation de données simples telles que la météo peut apporter beaucoup de valeur : le cabinet Climpact a par exemple montré qu’une baisse de 2 degrés au printemps entraine une baisse de 8% des ventes de sirop.
