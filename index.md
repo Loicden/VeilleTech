@@ -4,6 +4,7 @@
 <p align="center">
   <img width="600" src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2018%2F12%2Fcanva-photo-editor-3-9.jpg">
 </p>
+
 Ces dernières années, le volume d’informations générées a explosé, notamment avec le développement des réseaux sociaux, des instruments scientifiques, des objets connectés et des nouvelles technologies. On estime que le volume de données numériques générées dans le monde double tous les trois ans environ. Cette transformation vers le big data, qui découle de progrès réalisés en stockage et puissance de calcul, a créé de nouvelles opportunités et les grandes quantités de données sont devenues un enjeu économique majeur dans le monde entier. Des entreprises de tout domaine d’activité y investissent pour rester compétitives. En effet, même l’exploitation de données simples telles que la météo peut apporter beaucoup de valeur : le cabinet Climpact a par exemple montré qu’une baisse de 2 degrés au printemps entraine une baisse de 8% des ventes de sirop.
 
 Bien que le potentiel du big data soit souvent présenté en lien avec les fonctions marketing et commerciales des entreprises (optimisation de la chaîne logistique, amélioration de l’expérience client, du business model…), il est également utilisé dans d’autres secteurs que le commerce, sans nécessairement que les personnes concernées ne s’en rendent compte, et à des fins qui sont parfois amenées à être remises en cause.
@@ -74,7 +75,9 @@ Les cohortes d’audience permettent de cibler collectivement (plutôt qu’indi
 
 Le 23 février 2021, Mozilla annonce une nouvelle fonctionnalité avec Firefox 86 : la [protection totale des cookies](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/). Habituellement, un site web utilise des cookies pour se souvenir des préférences de l'utilisateur, et les autres sites peuvent y accéder librement pour lui proposer des publicités adaptées. La protction totale des cookies ne permet plus cette collecte de sites tiers. Le navigateur conserve chaque jeu de données dans une base dédiée spécifiquement au site concerné.
 
-![Protection totale des cookies](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/panels-4-1536x768.png)
+<p align="center">
+  <img width="600" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/panels-4-1536x768.png)">
+</p>
 
 ### TikTok sommé d'améliorer sa communication sur sa gestion des données personnelles
 
