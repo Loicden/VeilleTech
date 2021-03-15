@@ -27,7 +27,7 @@ En mars 2021, la [Cnil confirme l'amende de 100 millions d'euros qui a été don
   <img width="600" src="https://cdn.newsapi.com.au/image/v1/427bfdd5ca47eaa03f9d8a9ef33c38f4?width=650">
 </p>
 
-En mars 2021, [l'amande de Facebook pour avoir collecté illégalement les données biométriques de ses utilisateurs](https://www.usine-digitale.fr/article/facebook-paiera-650-millions-de-dollars-pour-clore-un-litige-sur-la-collecte-de-donnees-biometriques.N1066189) de 2010 à 2018 via sa technologie de "recommendation de tag" a été confirmée à 650 millions de dollars, soit 345 dollars par requérant.
+En mars 2021, [l'amende de Facebook pour avoir collecté illégalement les données biométriques de ses utilisateurs](https://www.usine-digitale.fr/article/facebook-paiera-650-millions-de-dollars-pour-clore-un-litige-sur-la-collecte-de-donnees-biometriques.N1066189) de 2010 à 2018 via sa technologie de "recommendation de tag" a été confirmée à 650 millions de dollars, soit 345 dollars par requérant.
 
 ## Les données personnelles et la législation
 En Europe, un mouvement général de raffermissement de la politique de traitement des données personnelles se popularise : il vise à répondre à une demande de plus en plus partagée par la population : être averti des données que l'ont produit et pouvoir décider soi-même de l'utilisation que chacun en fait. C'est ce que l'on appelle la [souveraineté numérique](https://www.journaldunet.com/management/direction-generale/1498577-souverainete-numerique-les-citoyens-europeens-sont-ils-les-seuls-a-pouvoir-changer-les-choses/).
@@ -84,4 +84,79 @@ Le 23 février 2021, Mozilla annonce une nouvelle fonctionnalité avec Firefox 8
 
 En février 2021, [le Bureau européen des unions de consommateurs (BEUC) ainsi que la commission européenne accuse la plateforme de partage de vidéos d'enfreindre plusieurs lois europpéennes en ce qui concerne, entre autre, la gestion des données des utilisateurs](https://ca.news.yahoo.com/tiktok-hit-consumer-child-safety-110711481.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMPhPCDfX_49dfGxNUPZ55RSMR5IJ7ImYvi1oJiX6RVQAUP9W04-hSn4dmC_SSvl46V0_66MbStEPWWFl5q4wxniXrAJ3Mww5QGFZBGGt7h3XTsg3hnh1_NA-eC23-AZWRPmLFQALP6QKcgttruqaDzzELkRiPD4maWu6o6-rTcN). Les accusations portent principalement sur une communication trop nébuleuse sur l'utilisation des données récoltées, surtout pour un réseau social qui s'adresse majoritairement à des enfants. De plus, comme [Facebook et Google](https://techcrunch.com/2018/05/25/facebook-google-face-first-gdpr-complaints-over-forced-consent/), TikTok est accusé de ne pas proposer clairement le choix de refuser son partage de données. Ce procédé est connu sous le nom de **"consentement forcé"**. L'ensemble des accusations est mis à disposition par le [BEUC](https://www.beuc.eu/publications/beuc-x-2021-010_confusing_by_design-a_data_protection_law_analysis_of_tiktok_s_privacy_policy.pdf). Pour le moment, Tiktok met en place plusieurs mesures pour répondre à ces accusations mais rien n'est encore fait ; la commission europpéenne et le BEUC surveillent la compagnie de près.
 
+## Annexes
+Les détails de la méthode concernant cette veille technologiques sont [disponibles sur le github](https://github.com/Loicden/VeilleTech/blob/main/MSO_4_4___Veille_Technologique.pdf).
 
+## Bibliographie
+
+<a id="1">[1]</a> 
+Cambridge Analytics
+[Cambridge Analytics](https://www.lemonde.fr/pixels/article/2018/03/22/ce-qu-il-faut-savoir-sur-cambridge-analytica-la-societe-au-c-ur-du-scandale-facebook_5274804_4408996.html)
+
+<a id="2">[2]</a>
+The Great Hack
+[The Great Hack](https://www.theguardian.com/film/2019/jul/23/the-great-hack-review-cambridge-analytica-facebook-carole-cadwalladr-arron-banks)
+
+<a id="3">[3]</a>
+Snyk
+[Snyk](https://snyk.io/blog/sourmint-malicious-code-ad-fraud-and-data-leak-in-ios/)
+
+<a id="4">[4]</a>
+Amande de 100 millions d'euros pour Google
+[Amende de 100 millions d'euros pour Google](https://www.usine-digitale.fr/editorial/cookies-la-justice-valide-l-amende-de-100-millions-d-euros-infligee-a-google-par-la-cnil.N1068834)
+
+<a id="5">[5]</a>
+Amende Facebook, données biométriques
+[Amende Facebook, données biométriques](https://www.usine-digitale.fr/article/facebook-paiera-650-millions-de-dollars-pour-clore-un-litige-sur-la-collecte-de-donnees-biometriques.N1066189)
+
+<a id="6">[6]</a>
+Souveraineté numérique
+[Souveraineté numérique](https://www.journaldunet.com/management/direction-generale/1498577-souverainete-numerique-les-citoyens-europeens-sont-ils-les-seuls-a-pouvoir-changer-les-choses/)
+
+<a id="7">[7]</a>
+DSA et DMA
+[DSA et DMA](https://www.blogdumoderateur.com/dma-dsa-europe-nouveaux-reglements-geants-numerique/)
+
+<a id="8">[8]</a>
+Article de recherche de Nicholas Vincent et Hanlin Li
+[Article de recherche de Nicholas Vincent et Hanlin Li](https://arxiv.org/pdf/2012.09995.pdf)
+
+<a id="9">[9]</a>
+Association for Computing Machinery’s Fairness, Accountability, and Transparency
+[Association for Computing Machinery’s Fairness, Accountability, and Transparency](https://2021.facctconference.org/)
+
+<a id="10">[10]</a>
+VPN
+[VPN](https://www.blogdumoderateur.com/tools/nordvpn/)
+
+<a id="11">[11]</a>
+AdNauseam
+[AdNauseam](https://www.technologyreview.com/2021/01/06/1015784/adsense-google-surveillance-adnauseam-obfuscation/)
+
+<a id="12">[12]</a>
+Scandale WhatsApp
+[Scandale WhatsApp](https://www.cnbc.com/2021/01/18/whatsapp-delays-privacy-update-amid-facebook-data-sharing-confusion.html)
+
+<a id="13">[13]</a>
+Blog post de Google sur les cookies tiers
+[Blog post de Google sur les cookies tiers](https://france.googleblog.com/2021/03/des-bases-durables-pour-un-internet.html)
+
+<a id="14">[14]</a>
+Google cesse l'utilisation des cookies tiers
+[Google cesse l'utilisation des cookies tiers](https://digiday.com/media/we-will-not-build-alternate-identifiers-in-drastic-shift-google-will-end-behavioral-targeting-profile-building-in-its-ad-products/)
+
+<a id="15">[15]</a>
+Firefox sur la protection totale des cookies
+[Firefox sur la protection totale des cookies](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/)
+
+<a id="16">[16]</a>
+Tiktok reçoit les plaintes de l'Europe
+[Tiktok reçoit les plaintes de l'Europe](https://ca.news.yahoo.com/tiktok-hit-consumer-child-safety-110711481.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMPhPCDfX_49dfGxNUPZ55RSMR5IJ7ImYvi1oJiX6RVQAUP9W04-hSn4dmC_SSvl46V0_66MbStEPWWFl5q4wxniXrAJ3Mww5QGFZBGGt7h3XTsg3hnh1_NA-eC23-AZWRPmLFQALP6QKcgttruqaDzzELkRiPD4maWu6o6-rTcN)
+
+<a id="17">[17]</a>
+Consentement forcé de Google et Facebook
+[Consentement forcé de Google et Facebook](https://techcrunch.com/2018/05/25/facebook-google-face-first-gdpr-complaints-over-forced-consent/)
+
+<a id="18">[18]</a>
+Liste complète des accusations du BEUC à Tiktok
+[Liste complète des accusations du BEUC à Tiktok](https://www.beuc.eu/publications/beuc-x-2021-010_confusing_by_design-a_data_protection_law_analysis_of_tiktok_s_privacy_policy.pdf)
