@@ -23,10 +23,16 @@ L'Europe entame une régulation du traffic de données avec les textes de la [DS
 
 ### Les entreprises face aux attentes des utilisateurs
 
-Dans un article de recherche présenté par les doctorants Nicholas Vincent et Hanlin Li à la conférence de [Association for Computing Machinery’s Fairness, Accountability, and Transparency](https://2021.facctconference.org/), les chercheurs proposent trois manières au public du protéger leur données.
+Dans un [article de recherche](https://arxiv.org/pdf/2012.09995.pdf) présenté par les doctorants Nicholas Vincent et Hanlin Li à la conférence de [Association for Computing Machinery’s Fairness, Accountability, and Transparency](https://2021.facctconference.org/), les chercheurs proposent au public trois manières pour protéger leur données.
 
-##### AdNauseam propose aux utilisateurs d'"empoisonner" leur flux de données
+###### La grève des données
+De la même manière que les grèves salariales, l'utilisateur peut exercer une pression sur les entreprises en supprimant ou en filtrant les données grâce à des outils spécialisés comme des [VPN](https://www.blogdumoderateur.com/tools/nordvpn/), par exemple.
+
+###### "Empoisonner" son flux de données
 Face aux plaintes des utilisateurs, certaines entreprises prennent le problème dans l'autre sens et proposent aux utilisateurs non pas de protéger leurs données, mais de les livrer parmi énormément d'autres de manières à ce qu'elles ne soient plus exploitables. C'est ce que propose [**AdNauseam**](https://www.technologyreview.com/2021/01/06/1015784/adsense-google-surveillance-adnauseam-obfuscation/), une extension de navigateur qui clique sur toutes les annonces présentées pour induire le réseau publicitaire de Google en erreur.
+
+###### La contribution consciente de données
+Pour protester contre une application, il peut-être également envisageable de fournir des données utiles à un réseau concurrent pour l'avantager. Par exemple, on peut désavantager Facebook en hébergeant ses photos sur Tumblr. 
 
 #### Whatsapp perd des millions d'utilisateurs après l'annonce d'un partage de données avec Facebook
 
