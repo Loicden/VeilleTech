@@ -9,6 +9,10 @@ Depuis le [scandale de Cambridge Analytics en 2018](https://www.lemonde.fr/pixel
 
 Que ce soit par des raisons éthiques, morales ou économiques, les réseaux sociaux en question ainsi que les entreprises en générale sont donc poussés à mettre en place de nouvelles mesures concernant ce problème. Ces changements sont également souvent imposés par de nouvelles législations à l'échelle du pays ou de l'Europe, c'est pourquoi il est essentiel de les prendre en compte également. 
 
+### Les récents exemples de fraude
+
+Régulièrement, des enquêtes sont menées sur l'utilisation des données par les applications, et en particulier sur le fonctionnement parfois nébuleux des SDK (Software Development Kit). Concrètement, les SDK sont des outils d’aide à la programmation pour les développeurs afin de concevoir une application mobile, qui se présentent sous la forme de fragments de code. Ces SDK publicitaires facilitent l’affichage des publicités, le suivi des clics des utilisateurs dans une application, mais aussi la collecte des données du téléphone. Ils sont également une porte d'entrée facile pour les cyber-attaques et des outils puissants pour récolter des données assez librement. En août 2020, Snyk une entreprise de cybersécurité américaine a [dévoilé la nocivité d’un SDK publicitaire](https://snyk.io/blog/sourmint-malicious-code-ad-fraud-and-data-leak-in-ios/) utilisé par plus de 1200 applications. Dans ce cas, la société éditrice du SDK, sous couvert d’une activité légitime, pratiquait de la fraude publicitaire en favorisant les publicités de leur réseau plutôt qu’un autre. En plus de ces activités frauduleuses, la société, via le SDK, traquait les utilisateurs des applications en récupérant certaines données de navigation. Si cet exemple illustre un cas extrême, il illustre bien la capacité de collecte de ces SDK.
+
 ### Les données personnelles et la législation
 
 En Europe, un mouvement général de raffermissement de la politique de traitement des données personnelles se popularise : il vise à répondre à une demande de plus en plus partagée par la population : être averti des données que l'ont produit et pouvoir décider soi-même de l'utilisation que chacun en fait. C'est ce que l'on appelle la [souveraineté numérique](https://www.journaldunet.com/management/direction-generale/1498577-souverainete-numerique-les-citoyens-europeens-sont-ils-les-seuls-a-pouvoir-changer-les-choses/).
@@ -16,6 +20,17 @@ En Europe, un mouvement général de raffermissement de la politique de traiteme
 #### La DSA et la DMA (Décembre 2020)
 
 L'Europe entame une régulation du traffic de données avec les textes de la [DSA et la DMA en décembre 2020](https://www.blogdumoderateur.com/dma-dsa-europe-nouveaux-reglements-geants-numerique/). Ces textes concernent les géants du numéiques, dont entre autres et les réseaux sociaux Facebook, Snapchat, TikTok et Twitter, et a pour objectif une clarification des règles du jeu : ils doivent **communiquer sur leurs actions mises en place contre les contenus illégaux** et à être également plus **transparents sur le fonctionnement de leurs algorithmes de recommandations**. Le texte de la DMA oblige notemment ces géants à na pas favoriser leurs propres services sur leurs appareils ou leur moteur de recherche par exemple ou encore exploiter les données de clients professionnels pour leur faire concurrence plus facilement par la suite. Si certaines plateformes ne respectent pas les règles, elles pourront écoper d’**une amende pouvant aller jusqu’à 10 % de leur chiffre d’affaires mondial annuel**. En cas de « récidive », la Commission européenne pourrait alors aller jusqu’à exiger la scission de certaines activités de l’entreprise, si celles-ci sont en Europe. Ces nouvelles lois visent également à réguler l’espace numérique en temps réel, et non pas des mois plus tard après des enquêtes de longue haleine sur d’éventuelles pratiques anticoncurrentielles.
+
+### Les entreprises face aux attentes des utilisateurs
+
+Dans un article de recherche présenté par les doctorants Nicholas Vincent et Hanlin Li à la conférence de [Association for Computing Machinery’s Fairness, Accountability, and Transparency](https://2021.facctconference.org/), les chercheurs proposent trois manières au public du protéger leur données.
+
+##### AdNauseam propose aux utilisateurs d'"empoisonner" leur flux de données
+Face aux plaintes des utilisateurs, certaines entreprises prennent le problème dans l'autre sens et proposent aux utilisateurs non pas de protéger leurs données, mais de les livrer parmi énormément d'autres de manières à ce qu'elles ne soient plus exploitables. C'est ce que propose [**AdNauseam**](https://www.technologyreview.com/2021/01/06/1015784/adsense-google-surveillance-adnauseam-obfuscation/), une extension de navigateur qui clique sur toutes les annonces présentées pour induire le réseau publicitaire de Google en erreur.
+
+#### Whatsapp perd des millions d'utilisateurs après l'annonce d'un partage de données avec Facebook
+
+En janvier 2021, [des millions d'utilisateurs décident de supprimer leur comptes WhatsApp](https://www.cnbc.com/2021/01/18/whatsapp-delays-privacy-update-amid-facebook-data-sharing-confusion.html) pour passer à Signal ou Telegram après que Facebook ait annoncé leur volonté de partager les données de WhatsApp avec le reste de l'entreprise. Cette exode a forcé Facebook à retarder son changement de législation.
 
 #### Google cesse d'utiliser le tracking individuel
 
@@ -25,8 +40,6 @@ Le 3 mars 2021, l'entreprise Google annonce via ce [blog post](https://france.go
 
 Les cohortes d’audience permettent de cibler collectivement (plutôt qu’individuellement) en fonction des historiques de navigation et des intérêts similaires.
 
-### Les récents exemples de fraude
 
-Régulièrement, des enquêtes sont menées sur l'utilisation des données par les applications, et en particulier sur le fonctionnement parfois nébuleux des SDK (Software Development Kit). Concrètement, les SDK sont des outils d’aide à la programmation pour les développeurs afin de concevoir une application mobile, qui se présentent sous la forme de fragments de code. Ces SDK publicitaires facilitent l’affichage des publicités, le suivi des clics des utilisateurs dans une application, mais aussi la collecte des données du téléphone. Ils sont également une porte d'entrée facile pour les cyber-attaques et des outils puissants pour récolter des données assez librement. En août 2020, Snyk une entreprise de cybersécurité américaine a [dévoilé la nocivité d’un SDK publicitaire](https://snyk.io/blog/sourmint-malicious-code-ad-fraud-and-data-leak-in-ios/) utilisé par plus de 1200 applications. Dans ce cas, la société éditrice du SDK, sous couvert d’une activité légitime, pratiquait de la fraude publicitaire en favorisant les publicités de leur réseau plutôt qu’un autre. En plus de ces activités frauduleuses, la société, via le SDK, traquait les utilisateurs des applications en récupérant certaines données de navigation. Si cet exemple illustre un cas extrême, il illustre bien la capacité de collecte de ces SDK.
 
 
